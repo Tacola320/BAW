@@ -32,12 +32,6 @@ Każde zadanie musi zostać wykonane w oparciu o środowisko Docker. Wynikiem za
 
 ## Odnośniki do części projektu
 
-- [Część 1 - raport](part1)
-- [Część 2 - raport](part2)
-- [Część 3 - raport](part3)
-
-## Instrukcja uruchomienia z DockerFile
-
-### Nginx
-
-### Apache
+- [Część 1](part1)
+- [Część 2](part2)
+- [Część 3](part3)
