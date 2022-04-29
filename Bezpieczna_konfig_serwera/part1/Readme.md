@@ -1,3 +1,7 @@
+# Raport
+
+Raport do zajęć znajduje się w pliku [Raport.md](Raport.md).
+
 # Instrukcja uruchomienia dla części 1
 
 ## Nginx
