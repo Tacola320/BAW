@@ -13,7 +13,7 @@ W ramach pierwszego zadania projektowego wykonano raport przejścia gry programi
 
 Link do pierwszej części - https://uw-team.org/hackme/ 
 
-![Start](/Images/hackme1.PNG)
+![Start](Images/hackme1.PNG)
 
 ### Poziom 1
 
@@ -21,7 +21,7 @@ Adres: https://uw-team.org/hackme/level1.htm
 
 Zrzut ekranu - widzimy na nim pole do logowania.
 
-![Poziom1](/Images/hackme1_lvl1.PNG)
+![Poziom1](Images/hackme1_lvl1.PNG)
 
 Przy pomocy skrótu klawiszowego `CTRL+U` można w szybki sposób podejrzeć kod źródłowy strony.
 
@@ -60,7 +60,7 @@ Adres: https://uw-team.org/hackme/ok_next.htm
 
 Zrzut ekranu - widzimy na nim pole do logowania.
 
-![Poziom2](/Images/hackme1_lvl2.PNG)
+![Poziom2](Images/hackme1_lvl2.PNG)
 
 Przy pomocy skrótu klawiszowego `CTRL+U` można w szybki sposób podejrzeć kod źródłowy strony.
 
@@ -99,7 +99,7 @@ Adres: https://uw-team.org/hackme/formaster.htm
 
 Zrzut ekranu - widzimy na nim pole do logowania.
 
-![Poziom3](/Images/hackme1_lvl3.PNG)
+![Poziom3](Images/hackme1_lvl3.PNG)
 
 Przy pomocy skrótu klawiszowego `CTRL+U` można w szybki sposób podejrzeć kod źródłowy strony.
 
@@ -186,7 +186,7 @@ Adres: https://uw-team.org/hackme/formaster.htm
 
 Zrzut ekranu - widzimy na nim lekko odmienne od poprzednich, ale dalej pole do logowania.
 
-![Poziom4](/Images/hackme1_lvl4.PNG)
+![Poziom4](Images/hackme1_lvl4.PNG)
 
 Przy pomocy skrótu klawiszowego `CTRL+U` można w szybki sposób podejrzeć kod źródłowy strony.
 
@@ -238,7 +238,7 @@ Adres: https://uw-team.org/hackme/go171.htm
 
 Zrzut ekranu - widzimy na nim zamek czasowy
 
-![Poziom5](/Images/hackme1_lvl5.PNG)
+![Poziom5](Images/hackme1_lvl5.PNG)
 
 Przy pomocy skrótu klawiszowego `CTRL+U` można w szybki sposób podejrzeć kod źródłowy strony.
 
@@ -307,7 +307,7 @@ Adres: https://uw-team.org/hackme/42x.htm
 
 Zrzut ekranu - widzimy na nim pole do logowania.
 
-![Poziom6](/Images/hackme1_lvl6.PNG)
+![Poziom6](Images/hackme1_lvl6.PNG)
 
 Przy pomocy skrótu klawiszowego `CTRL+U` można w szybki sposób podejrzeć kod źródłowy strony.
 
@@ -399,7 +399,7 @@ Adres: https://uw-team.org/hackme/bxd_ex_ex.htm
 
 Zrzut ekranu - widzimy na nim pole do logowania.
 
-![Poziom7](/Images/hackme1_lvl7.PNG)
+![Poziom7](Images/hackme1_lvl7.PNG)
 
 Przy pomocy skrótu klawiszowego `CTRL+U` można w szybki sposób podejrzeć kod źródłowy strony.
 
@@ -476,7 +476,7 @@ Adres: http://www.uw-team.org/hackme/plxszn_xrv.htm
 
 Zrzut ekranu - widzimy na nim pole do logowania.
 
-![Poziom8](/Images/hackme1_lvl8.PNG)
+![Poziom8](Images/hackme1_lvl8.PNG)
 
 Przy pomocy skrótu klawiszowego `CTRL+U` można w szybki sposób podejrzeć kod źródłowy strony.
 
@@ -572,13 +572,13 @@ Adres: http://www.uw-team.org/hackme/qrupjf162.htm
 
 Udało nam się przejść 1 część gry programistycznej HackMe.
 
-![Final1](/Images/hackme1_win.PNG)
+![Final1](Images/hackme1_win.PNG)
 
 ## HackMe2
 
 Link do drugiej części - https://uw-team.org/hm2/ 
 
-![Start2](/Images/hackme2.PNG)
+![Start2](Images/hackme2.PNG)
 
 ### Poziom 1
 
@@ -586,7 +586,7 @@ Adres: http://www.uw-team.org/hm2/level1.htm
 
 Zrzut ekranu - widzimy na nim pole do logowania.
 
-![Poziom1](/Images/hackme2_lvl1.PNG)
+![Poziom1](Images/hackme2_lvl1.PNG)
 
 Przy pomocy skrótu klawiszowego `CTRL+U` można w szybki sposób podejrzeć kod źródłowy strony.
 
@@ -615,7 +615,7 @@ Adres: http://www.uw-team.org/hm2/text.htm
 
 Zrzut ekranu - widzimy na nim pole do logowania.
 
-![Poziom2](/Images/hackme2_lvl2.PNG)
+![Poziom2](Images/hackme2_lvl2.PNG)
 
 Przy pomocy skrótu klawiszowego `CTRL+U` można w szybki sposób podejrzeć kod źródłowy strony.
 
@@ -645,7 +645,7 @@ Adres: http://www.uw-team.org/hm2/banalne.htm
 
 Zrzut ekranu - widzimy na nim pole do logowania.
 
-![Poziom3](/Images/hackme2_lvl3.PNG)
+![Poziom3](Images/hackme2_lvl3.PNG)
 
 Przy pomocy skrótu klawiszowego `CTRL+U` można w szybki sposób podejrzeć kod źródłowy strony.
 
@@ -685,7 +685,7 @@ Adres: http://www.uw-team.org/hm2/1234.htm
 
 Zrzut ekranu - widzimy na nim pole do logowania.
 
-![Poziom4](/Images/hackme2_lvl4.PNG)
+![Poziom4](Images/hackme2_lvl4.PNG)
 
 Przy pomocy skrótu klawiszowego `CTRL+U` można w szybki sposób podejrzeć kod źródłowy strony.
 
@@ -735,7 +735,7 @@ Adres: http://www.uw-team.org/hm2/102.php
 
 Zrzut ekranu - widzimy na nim pole do logowania oraz ujawniony kod PHP.
 
-![Poziom3](/Images/hackme2_lvl5.PNG)
+![Poziom3](Images/hackme2_lvl5.PNG)
 
 Przy pomocy skrótu klawiszowego `CTRL+U` można w szybki sposób podejrzeć kod źródłowy strony.
 
@@ -773,7 +773,7 @@ http://www.uw-team.org/hm2/102.php?log=1&has=1
 
 Po wykonaniu żądania HTTP, zostajemy przekierowani na kolejną stronę, która odsyła nas do kolejnego poziomu.
 
-![Poziom3](/Images/hackme2_lvl5_next.PNG)
+![Poziom3](Images/hackme2_lvl5_next.PNG)
 
 ### Poziom 6
 
@@ -781,7 +781,7 @@ Adres: http://www.uw-team.org/hm2/url.php
 
 Zrzut ekranu - widzimy na nim informacje o ciasteczku z wróżbą.
 
-![Poziom6](/Images/hackme2_lvl6.PNG)
+![Poziom6](Images/hackme2_lvl6.PNG)
 
 Przy pomocy skrótu klawiszowego `CTRL+U` można w szybki sposób podejrzeć kod źródłowy strony.
 
@@ -798,7 +798,7 @@ Autor wyzwania sugeruje, aby odczytać tzw. `cookies` (`ciasteczko`) na stronie.
 
 Aby sprawdzić otrzymane ciasteczko należy uruchomić w przeglądarce `narzędzia deweloperskie`, następnie przejść do zakładki `Application>Cookies`.
 
-![Poziom6_dev](/Images/hackme2_lvl6_dev.PNG)
+![Poziom6_dev](Images/hackme2_lvl6_dev.PNG)
 
 Po weryfikacji widzimy, że wartość ciastka `nastepna_strona` to `ciastka.htm`.
 
@@ -838,7 +838,7 @@ Adres: http://www.uw-team.org/hm2/ciastka.htm
 
 Zrzut ekranu - widzimy na nim pole do logowania.
 
-![Poziom7](/Images/hackme2_lvl7.PNG)
+![Poziom7](Images/hackme2_lvl7.PNG)
 
 Przy pomocy skrótu klawiszowego `CTRL+U` można w szybki sposób podejrzeć kod źródłowy strony.
 
@@ -861,8 +861,8 @@ Wskazuje to na popularny błąd `Directory Listing`. Polega on na tym, że użyt
 
 Wchodząc na adres http://www.uw-team.org/hm2/include/ widzimy nazwę dołączanego skryptu JavaScript, którego nazwa wskazuje na hasło.
 
-![Poziom7_include](/Images/hackme2_lvl7_include.PNG)
-![Poziom7_js](/Images/hackme2_lvl7_js.PNG)
+![Poziom7_include](Images/hackme2_lvl7_include.PNG)
+![Poziom7_js](Images/hackme2_lvl7_js.PNG)
 
 Po wpisaniu hasła - `cosik`, przechodzimy do następnego poziomu.
 
@@ -872,7 +872,7 @@ Adres: http://www.uw-team.org/hm2/listing.php
 
 Zrzut ekranu - widzimy na nim komunikat.
 
-![Poziom8](/Images/hackme2_lvl8.PNG)
+![Poziom8](Images/hackme2_lvl8.PNG)
 
 Przy pomocy skrótu klawiszowego `CTRL+U` można w szybki sposób podejrzeć kod źródłowy strony.
 
@@ -959,7 +959,7 @@ Adres: http://www.uw-team.org/hm2/pokaz.php
 
 Zrzut ekranu - widzimy na nim komunikat.
 
-![Poziom9](/Images/hackme2_lvl9.PNG)
+![Poziom9](Images/hackme2_lvl9.PNG)
 
 Zawartość strony:
 
