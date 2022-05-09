@@ -30,8 +30,12 @@ Proszę przygotować konfigurację dla serwera Apache ORAZ Nginx spełniające n
 
 Każde zadanie musi zostać wykonane w oparciu o środowisko Docker. Wynikiem zadania jest plik Dockerfile (względnie docker-compose) i wszystkie pliki konfiguracyjne, które powinny być dynamicznie załączone do kontenera Docker.
 
-## Odnośniki do części projektu
+## Odnośniki do raportów z projektu
 
-- [Część 1](part1)
-- [Część 2](part2)
-- [Część 3](part3)
+- [Część 1](Raport_1.md)
+- [Część 2](Raport_2.md)
+- [Część 3](Raport_3.md)
+
+## Infrastruktura
+
+Pliki środowisk Docker dla Nginx oraz Apache są co kolejną część zadań aktualizowane i znajdują się w tym samym folderze wraz z instrukcją uruchomienia środowiska - [infrastructure](../Bezpieczna_konfig_serwera/infrastructure).

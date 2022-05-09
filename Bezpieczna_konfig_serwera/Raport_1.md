@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="20%" src="..\..\Logo\logo-pwr.png">
+    <img width="20%" src="..\Logo\logo-pwr.png">
     <h1 align="center">Bezpieczna konfiguracja serwera webowego - zadanie 1</h1>
     <h3 align="center">Bezpieczeństwo aplikacji webowych (projekt)</h3>
     <h3 align="center">piątek 8:15</h3>
