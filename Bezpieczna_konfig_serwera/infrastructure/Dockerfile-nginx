@@ -14,9 +14,7 @@ COPY nginx/nginx.conf /etc/nginx/nginx.conf
 
 RUN mkdir /etc/nginx/client_certs
 
-COPY certs_users/User_A.crt certs_users/User_B.crt /etc/nginx/client_certs/
-
-RUN cat /etc/nginx/server.crt /etc/nginx/client_certs/*.crt > /etc/nginx/client_certs/clients.crt
+COPY clients.crt  /etc/nginx/client_certs/clients.crt
 
 EXPOSE 80
 

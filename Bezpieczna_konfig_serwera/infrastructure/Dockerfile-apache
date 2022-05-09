@@ -14,9 +14,7 @@ COPY apache/httpd-ssl.conf /usr/local/apache2/conf/extra/httpd-ssl.conf
 
 RUN mkdir /usr/local/apache2/conf/client_certs
 
-COPY certs_users/User_A.crt certs_users/User_B.crt /usr/local/apache2/conf/client_certs/
-
-RUN cat /usr/local/apache2/conf/server.crt /usr/local/apache2/conf/client_certs/*.crt > /usr/local/apache2/conf/client_certs/clients.crt
+COPY clients.crt /usr/local/apache2/conf/client_certs/clients.crt
 
 EXPOSE 80
 
