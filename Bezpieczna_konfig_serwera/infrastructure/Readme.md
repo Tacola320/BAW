@@ -1,8 +1,11 @@
-# Raport
+# Raporty
 
-Raport do zajęć znajduje się w pliku [Raport.md](Raport.md).
+Raporty do zajęć znajdują się w plikach:
+ - [Raport_1.md](../Raport_1.md)
+ - [Raport_2.md](../Raport_2.md)
+ - [Raport_3.md](../Raport_3.md)
 
-# Instrukcja uruchomienia dla części 1
+# Instrukcja uruchomienia środowiska
 
 ## Nginx
 

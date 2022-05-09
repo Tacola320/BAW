@@ -7,7 +7,7 @@
 
 ---
 
-Wykonano raport bezpiecznej konfiguracji serwera webowego. Uwzględniono w nim konfigurację dla serwerów Nginx oraz Apache. Zadanie wykonano w oparciu o środowisko Docker. W [Readme](Readme.md) opublikowano instrukcję uruchomienia serwerów Nginx i Apache z DockerFile.
+Wykonano raport bezpiecznej konfiguracji serwera webowego. Uwzględniono w nim konfigurację dla serwerów Nginx oraz Apache. Zadanie wykonano w oparciu o środowisko Docker. W [Readme](../Bezpieczna_konfig_serwera/infrastructure/Readme.md) opublikowano instrukcję uruchomienia serwerów Nginx i Apache z DockerFile.
 
 ## Generowanie certyfikatu self-signed oraz konfiguracja HTTPS
 
@@ -31,7 +31,7 @@ Parametry:
 - `-out` - ścieżka do pliku z certyfikatem
 - `-subj` - określenie szczegółów podmiotu wystawiającego certyfikat
 
-![](Images\cert_generation.PNG)
+![cert](\infrastructure\Images\cert_generation.PNG)
 
 ### Podstawowa konfiguracja serwera HTTP - Nginx
 
