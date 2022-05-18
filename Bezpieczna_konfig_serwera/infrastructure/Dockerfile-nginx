@@ -1,5 +1,9 @@
 FROM nginx
 
+# Part 3 - rate limiting
+
+COPY nginx/rate-limitting.conf /etc/nginx/rate-limiting.conf
+
 # Part1 - wstępna konfig
 
 COPY certs/ /etc/nginx/ 

@@ -1,5 +1,18 @@
 FROM httpd
 
+# Part 3 - rate limiting & install modsecurity
+
+ENV DEBIAN_FRONTEND=noninteractive
+RUN apt-get update && \
+  apt-get -y install --no-install-recommends --no-install-suggests libapache2-mod-security2 modsecurity-crs
+
+RUN apt-get autoremove --purge -y && apt-get clean && \ 
+  rm -rf /var/lib/apt/lists/*
+
+COPY apache/modsecurity.conf /etc/modsecurity/modsecurity.conf
+COPY apache/modsecurity_global_rule.conf /etc/modsecurity/modsecurity_global_rule.conf
+
+
 #Part1 - wstępna konfig
 
 COPY certs/ /usr/local/apache2/conf/
@@ -15,6 +28,7 @@ COPY apache/httpd-ssl.conf /usr/local/apache2/conf/extra/httpd-ssl.conf
 RUN mkdir /usr/local/apache2/conf/client_certs
 
 COPY certs/clients.crt /usr/local/apache2/conf/client_certs/clients.crt
+
 
 EXPOSE 80
 
