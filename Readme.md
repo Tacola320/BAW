@@ -10,3 +10,4 @@
 
 - [Zadanie rozgrzewkowe](HackMe)
 - [Mini-projekt - Bezpieczna konfiguracja serwera webowego Apache i Nginx](Bezpieczna_konfig_serwera)
+- [Zadanie - atak na Wordpress](Wordpress)
