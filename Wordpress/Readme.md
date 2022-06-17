@@ -14,9 +14,9 @@ W ramach zadania projektowego wykonano raport przeprowadzeonego ataku na dowolni
 Wybrana podatność to `Unauthenticated SQL injection` dla wtyczki Wordpress [Simple Link Directory](https://wordpress.org/plugins/simple-link-directory/) - [CVE-2022-0760](https://nvd.nist.gov/vuln/detail/CVE-2022-0760).
 
 
-| Severity | 9.8 Critical |
-| CVSS | CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H |
-| CWE | CWE-89 - Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') |
+- Severity -  9.8 Critical 
+- CVSS - CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H 
+- CWE - CWE-89 - Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') 
 
 Wtyczka nie waliduje i nie usuwa parametru `post_id` przed wykorzystaniem go w instrukcjach SQL za pomocą akcji w AJAX `qcopd_upvote_action`, co może umożliwić nieupoważnionym atakującym przeprowadzenie ataku `SQL injection`.
 
